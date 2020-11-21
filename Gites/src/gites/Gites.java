@@ -16,7 +16,8 @@ public class Gites {
      */
     public static void main(String[] args) {
         System.out.println("Hello world!");
-        System.out.println("Márk vagyok!");
+        System.out.println("Mï¿½rk vagyok!");
+        System.out.println("Rebeka vagyok!");
     }
-    
+  
 }
